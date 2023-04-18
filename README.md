@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Wessel
 
-<!--
-**wesselvbbb/wesselvbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at the University of Applied Sciences Rotterdam, and I study Creative Media and Game Technologies. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured Projects:
+- [Empath](https://tle01.pimmothy.live/), a TLE project my team and I made. Empath is a interactive game for psychiatrists/psychologists and their clients to help start   a conversation. [Code](https://github.com/KCvandenBergh/TLE-TEAM01-HSLEIDEN)
+- [AKino](https://stud.hosted.hr.nl/1036029/Programmeren/AKino/docs/), CLE4 project where you play as a dinosaur and try to save the city from pollution. [Code](https://github.com/Isissss/CLE4)
+- F1 Fan Favorites, a Laravel project where users can share their favorite moments in Formula 1. [Code](https://github.com/wesselvbbb/PRG05-Formule-1)
+
+
+Feel free to look around on my Github for more work! 💻
+
+
+🔭 I’m currently working on my portfolio website.
