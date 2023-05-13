@@ -12,4 +12,3 @@ I'm a student at the University of Applied Sciences Rotterdam, and I study Creat
 Feel free to look around on my Github for more work! 💻
 
 
-🔭 I’m currently working on my portfolio website.
